@@ -40,17 +40,17 @@ return [
     'connections' => [
         'main' => [
             'driver' => 'guzzlehttp',
-            'token' => '525556aca73ed5adcdbf802989f7426fea8118671a566dae3ef84570a1344bf2',
+            'token' => '<<put your code here>>',
         ],
 
         'other' => [
             'driver' => 'guzzle',
-            'token' => '525556aca73ed5adcdbf802989f7426fea8118671a566dae3ef84570a1344bf2',
+            'token' => '<<put your code here>>',
         ],
 
         'alternative' => [
             'driver' => 'buzz',
-            'token' => '525556aca73ed5adcdbf802989f7426fea8118671a566dae3ef84570a1344bf2',
+            'token' => '<<put your code here>>',
         ],
     ],
 ];
